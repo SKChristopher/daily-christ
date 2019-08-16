@@ -1,4 +1,4 @@
-languate: node_js
+language: node_js
 node_js:
   - 12.3.1
 install: yarn
