@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "daily-christ",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Some thoughts and words",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Christopher Washburn",
   "dependencies": {
     "@material-ui/core": "^4.3.2",
     "@material-ui/icons": "^4.2.1",
@@ -42,9 +42,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/SKChristopher/daily-christ"
   }
 }
