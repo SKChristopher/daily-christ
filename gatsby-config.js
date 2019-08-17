@@ -43,7 +43,7 @@ module.exports = {
       resolve: `gatsby-plugin-s3`,
       options: {
           bucketName: 'babyjellyfish.com',
-          region: 'us-west-2',
+          region: 'us-west-1',
       },
     },
   ],
