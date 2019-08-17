@@ -9,7 +9,7 @@ import SEO from "../components/seo"
 
 const BlogPage = ({ data }) => (
   <Layout>
-    <SEO title="blog" />
+    <SEO title="Blog" />
     <List>
       {data.allMarkdownRemark.edges
         .sort((a, b) => {

@@ -42,7 +42,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-s3`,
       options: {
-          bucketName: 'daily-christ.com'
+          bucketName: 'babyjellyfish.com'
       },
     },
   ],
