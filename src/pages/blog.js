@@ -19,13 +19,14 @@ const BlogPage = ({ data }) => (
         })
         .map(post => (
           <ListItem
+            className="post-item"
             button
             component={ Link }
             to={ post.node.frontmatter.path }
             key={ post.node.id }
             style={{
               display: 'grid',
-              gridTemplateColumns: '10% 30% 50% 10%'
+              gridTemplateColumns: '100px minmax(100px, auto)'
             }}
           >
             <small>{ post.node.frontmatter.date }</small>

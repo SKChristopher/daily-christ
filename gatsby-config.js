@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Daily Christ`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Baby Jellyfish`,
+    description: `Just out here livin my best life.`,
     author: `@skchristopher`,
   },
   plugins: [
@@ -42,7 +42,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-s3`,
       options: {
-          bucketName: 'babyjellyfish.com'
+          bucketName: 'babyjellyfish.com',
+          region: 'us-west-2',
       },
     },
   ],

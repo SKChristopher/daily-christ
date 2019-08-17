@@ -13,7 +13,7 @@ export default function Template({ data }) {
 
   return(
     <Layout>
-      <SEO title="blog post" />
+      <SEO title={ post.frontmatter.title } />
       <IconButton
         aria-label="back"
         component={ Link }
