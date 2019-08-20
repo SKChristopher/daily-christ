@@ -6,7 +6,8 @@ title: "title"
 
 text
 
-- [ ] rise @ 6:00am or earlier
+- [ ] rise @ 6:01am or earlier
+- [ ] get up after first wake-up
 - [ ] meditate
 - [ ] yoga
 - [ ] climb / lift / run
