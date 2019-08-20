@@ -4,12 +4,10 @@ date: "2019/08/19"
 title: "day 1"
 ---
 
-
-
-Previous Day:
+Definitiely tryna have a motorcycle at this point
 
 - [x] rise @ 6:00am or earlier
 - [x] meditate
 - [x] yoga
-- [ ] climb / lift / run
-- [ ] sleep before 10:00pm
+- [x] climb / lift / run
+- [x] sleep before 10:00pm
