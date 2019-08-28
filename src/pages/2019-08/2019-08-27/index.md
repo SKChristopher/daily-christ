@@ -1,14 +1,14 @@
 ---
-path: "/17"
-date: "2019/08/25"
-title: "Chill"
+path: "/19"
+date: "2019/08/27"
+title: "universal"
 ---
 
-The only way you can fail is if you give up.
+Still need to get those fish
 
 - [ ] rise @ 6:01am or earlier
 - [ ] get up after first wake-up
-- [x] meditate
-- [x] yoga
+- [ ] meditate
+- [ ] yoga
 - [x] climb / lift / run
 - [ ] sleep before 10:00pm

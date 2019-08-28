@@ -1,7 +1,7 @@
 ---
 path: "/18"
 date: "2019/08/26"
-title: "happy"
+title: "Happy"
 ---
 
 Feelin really good today, no idea why.
