@@ -6,9 +6,4 @@ title: "title"
 
 text
 
-- [ ] rise @ 6:01am or earlier
-- [ ] get up after first wake-up
-- [ ] meditate
-- [ ] yoga
-- [ ] climb / lift / run
-- [ ] sleep before 10:00pm
+- [x] do 1 thing
