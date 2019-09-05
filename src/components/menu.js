@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import Button from '@material-ui/core/Button'
-import ButtonGroup from '@material-ui/core/ButtonGroup';
+import ButtonGroup from '@material-ui/core/ButtonGroup'
 
 const buttonLink = (text, link) => (
     <Button component={ Link } to={ link } >
