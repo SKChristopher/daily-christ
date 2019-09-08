@@ -1,7 +1,7 @@
 ---
 path: "/23"
 date: "2019/09/07"
-title: "title"
+title: "we made it"
 ---
 
 cleaned the whole house today tbh
