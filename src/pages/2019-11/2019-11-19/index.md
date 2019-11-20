@@ -6,7 +6,7 @@ title: "woke up tho"
 
 awful, sleep, sleep, sleep
 
-Day was - 4/10
+Day so far at 8:00pm - 4/10
 
 - [x] do 1 thing
 - [x] wake up
