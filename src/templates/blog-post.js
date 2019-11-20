@@ -5,6 +5,7 @@ import { ArrowBack } from '@material-ui/icons'
 import moment from 'moment'
 import Button from '@material-ui/core/Button'
 import ButtonGroup from '@material-ui/core/ButtonGroup'
+import { maxPage } from './data'
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -51,13 +52,16 @@ export default function Template({ data }) {
               Previous
             </Button>
           }
-          <Button
-            aria-label="next"
-            component={ Link }
-            to={ `${pathNum + 1}` }
-          >
-            Next
-          </Button>
+          {
+            pathNum < maxPage &&
+            <Button
+              aria-label="next"
+              component={ Link }
+              to={ `${pathNum + 1}` }
+            >
+              Next
+            </Button>
+          }
         </ButtonGroup>
       </div>
       <h4 style={{
