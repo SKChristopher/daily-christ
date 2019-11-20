@@ -1,9 +1,15 @@
 ---
-path: "/x"
-date: "2019/08/11"
+path: "/pathNum"
+date: "today"
 title: "title"
 ---
 
 text
 
-- [x] do 1 thing
+Day was - x/10
+
+- [ ] do 1 thing
+- [ ] wake up
+- [ ] coffee in the afternoon
+- [ ] smile or something
+- [ ] meditate
