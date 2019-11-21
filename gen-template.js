@@ -1,19 +1,30 @@
 const fs = require("fs")
 const moment = require("moment")
 
-// grab and update pathNum
-const pathNum = fs.readFileSync("./templatePathNum.txt").toString() * 1 + 1
-fs.writeFileSync("templatePathNum.txt", pathNum)
+const directory = moment().format("YYYY-MM")
+const subDirectory = moment().format("YYYY-MM-DD")
+const templateOutputDirectory = `src/pages/${directory}/${subDirectory}/index.md`
 
-let template = fs.readFileSync("./template.md").toString()
+const templateAlreadyExists = fs.existsSync(templateOutputDirectory)
+
+if (templateAlreadyExists) {
+  throw new Error('Template has already been created today.')
+}
+
+fs.mkdirSync(`src/pages/${directory}/${subDirectory}`, { recursive: true }, (err) => {
+  if (err) throw err
+})
+
+// grab and update pathNum
+const pathNum = JSON.parse(fs.readFileSync("./templatePathNum.txt")) + 1
+fs.writeFileSync("templatePathNum.txt", pathNum)
 
 const today = moment().format("YYYY/MM/DD")
 
-template = template.replace("today", today)
-template = template.replace("pathNum", pathNum)
+let template = fs.readFileSync("./template.md")
+                 .toString()
+                 .replace("$TODAY", today)
+                 .replace("$PATHNUM", pathNum)
 
-const directory = moment().format("YYYY-MM")
-const subDirectory = moment().format("YYYY-MM-DD")
-
-fs.writeFileSync(`src/pages/${directory}/${subDirectory}/index.md`, template)
+fs.writeFileSync(templateOutputDirectory, template)
 fs.writeFileSync(`src/templates/data.js`, `export const maxPage = ${pathNum}`)
