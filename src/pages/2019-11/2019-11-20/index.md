@@ -1,15 +1,18 @@
 ---
 path: "/34"
 date: "2019/11/20"
-title: "title"
+title: "woke up 100%"
 ---
 
-text
+full fulfilling day i guess, got a lot done at work and worked on twibs in the morning
 
-Day was - x/10
+wish my car had a window tho
 
-- [ ] do 1 thing
-- [ ] wake up
-- [ ] coffee in the afternoon
-- [ ] smile or something
-- [ ] meditate
+Day was - 7/10
+
+- [x] breakfast
+- [x] do 1 thing
+- [x] wake up
+- [x] coffee in the afternoon
+- [x] smile or something
+- [ ] meditate (really frickin up with this, why dont I just do it? did yoga tho, does that count?)
