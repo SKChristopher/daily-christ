@@ -49,7 +49,7 @@ export default function Template({ data }) {
               component={ Link }
               to={ `${pathNum - 1}` }
             >
-              Previous
+              Prev
             </Button>
           }
           {
