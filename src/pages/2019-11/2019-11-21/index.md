@@ -8,7 +8,7 @@ great start, feels bad end. didn't finish strong. I guess I had a pretty boring 
 
 how do i keep things good after a good start without depending on others?
 
-Day was - 6/10
+Day was - 5/10
 
 - [x] do 1 thing (surfing)
 - [x] wake up
