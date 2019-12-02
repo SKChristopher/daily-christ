@@ -13,7 +13,7 @@ Had a great weekend climbing. Both days were good. Frozen II was obviously the b
 11/25 Monday was probably - 6/10 pretty rough night but work was fine and KBBQ with the co-workers was good</br>
 11/26 Yesterday was - 7/10 nothing really just work and watching rick n morto with the w00d bois</br>
 
-Had a really nice dinner at Sugarfish. Little bit sad news but things seem okay for the most part. Great climbing, gym friends are good.
+Had a really nice thanksgiving dinner at Sugarfish. Little bit sad news but things seem okay for the most part. Great climbing, gym friends are good.
 
 Today was - 8/10
 
