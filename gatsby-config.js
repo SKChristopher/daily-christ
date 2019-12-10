@@ -46,5 +46,15 @@ module.exports = {
           region: 'us-west-1',
       },
     },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Baby Jellyfish`,
+        short_name: `bbJelly`,
+        start_url: `/`,
+        display: `standalone`,
+        background_color: `#F5B7B1`,
+      },
+    },
   ],
 }
