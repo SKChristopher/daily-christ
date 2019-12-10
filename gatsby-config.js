@@ -18,12 +18,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Baby Jellyfish`,
+        short_name: `bbJelly`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
-        display: `minimal-ui`,
+        display: `standalone`,
         icon: `src/images/crown.png`, // This path is relative to the root of the site.
       },
     },
@@ -44,16 +44,6 @@ module.exports = {
       options: {
           bucketName: 'babyjellyfish.com',
           region: 'us-west-1',
-      },
-    },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Baby Jellyfish`,
-        short_name: `bbJelly`,
-        start_url: `/`,
-        display: `standalone`,
-        background_color: `#F5B7B1`,
       },
     },
   ],
