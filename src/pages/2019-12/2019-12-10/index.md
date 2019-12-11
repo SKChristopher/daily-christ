@@ -1,16 +1,16 @@
 ---
 path: "/44"
 date: "2019/12/10"
-title: "title"
+title: "growing af"
 ---
 
-text
+Normal day. Gotta drink more water.
 
-Day was - x/10
+Day was - 8/10
 
-- [ ] do 1 thing
+- [x] do 1 thing
 - [ ] wake up
-- [ ] breakfast
+- [x] breakfast
 - [ ] coffee in the afternoon
-- [ ] smile or something
+- [x] smile or something
 - [ ] meditate
