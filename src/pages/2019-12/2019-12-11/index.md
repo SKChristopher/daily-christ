@@ -4,7 +4,9 @@ date: "2019/12/11"
 title: "Moon Circle"
 ---
 
-🌕🌕 Feelin pretty down today so far @ 2:30pm, thinking a lot about tomorrow... Really hoping this moon circle fixes my life. I think working from home was a poor choice with tomorrow lingering and all. Day ended really well, moon cirle was transformative 100% 🌕🌕
+🌕🌕 Feelin pretty down today so far @ 2:30pm, thinking a lot about tomorrow... Really hoping this moon circle fixes my life. I think working from home was a poor choice with tomorrow lingering and all. Day ended really well, moon cirle was transformative AF 100% 🌕🌕
+
+I have two brothers and they are both really cool :)
 
 Day was - 10/10
 
