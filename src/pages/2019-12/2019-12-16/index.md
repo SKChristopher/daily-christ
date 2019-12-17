@@ -6,11 +6,13 @@ title: "LYSIB"
 
 Best weekend of my life, 10/10 both days. Three meals both days.
 
-Day was - x/10
+Why do I do this to myself?
 
-- [ ] do 1 thing
+Day was - 7/10
+
+- [x] do 1 thing (climb)
 - [x] wake up (6:30)
 - [ ] breakfast
-- [ ] coffee in the afternoon
+- [x] coffee in the afternoon
 - [x] smile or something (easiest smile of my life the second I wake up)
 - [ ] meditate
