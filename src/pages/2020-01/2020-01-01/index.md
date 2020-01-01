@@ -1,7 +1,7 @@
 ---
 path: "/51"
 date: "2020/01/01"
-title: "New Year"
+title: "New Year 🎊"
 ---
 
 Checked every box before noon :)
