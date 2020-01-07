@@ -11,6 +11,7 @@ const buttonLink = (text, link) => (
 
 const buttonLinkHome = buttonLink('Home', '/')
 const buttonLinkBlog = buttonLink('Blog', '/blog')
+const buttonLinkList = buttonLink('List', '/list')
 
 const Menu = () => (
   <div style={{
@@ -22,6 +23,7 @@ const Menu = () => (
     <ButtonGroup>
       { buttonLinkHome }
       { buttonLinkBlog }
+      { buttonLinkList }
     </ButtonGroup>
   </div>
 )
