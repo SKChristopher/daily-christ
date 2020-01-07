@@ -8,7 +8,7 @@ Sakara will let you know why
 
 CACAO
 
-Goin to me mums tonight. Probly try n hit up that hot tub 🥵
+Goin to me mums tonight. Probly gonna try n hit up that hot tub 🥵
 
 Day was - x/10
 
