@@ -4,27 +4,33 @@ import moment from 'moment'
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const today = moment().format("YYYY/MM/DD")
+const today = moment().format("MMMM Do, YYYY")
 
 const Checkbox = ({ text }) =>
-  <div>
-    <input type="checkbox" />
+  <p>
+    <input type="checkbox" style={{
+      zoom: '2.5',
+    }} />
     &nbsp;{ text }
-  </div>
+  </p>
 
 const ListPage = () => (
   <Layout>
     <SEO title="List" />
-    <div style={{ textAlign: "center" }}>
+    <div>
       <br />
-      <p>{today}</p>
+      <p style={{ textAlign: 'center', }}>{today}</p>
       <hr />
-      <Checkbox text="do 1 thing" />
-      <Checkbox text="wake up" />
-      <Checkbox text="breakfast" />
-      <Checkbox text="coffee in the afternoon" />
-      <Checkbox text="smile or something" />
-      <Checkbox text="meditate" />
+      <div style={{
+        marginLeft: '25%',
+      }}>
+        <Checkbox text="do 1 thing" />
+        <Checkbox text="wake up" />
+        <Checkbox text="breakfast" />
+        <Checkbox text="coffee in the afternoon" />
+        <Checkbox text="smile or something" />
+        <Checkbox text="meditate" />
+      </div>
     </div>
   </Layout>
 )
