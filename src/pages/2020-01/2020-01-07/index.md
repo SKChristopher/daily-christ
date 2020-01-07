@@ -14,7 +14,7 @@ Day was - x/10
 
 - [x] do 1 thing (climb)
 - [x] wake up (6:30)
-- [x] breakfast (erwhon cinnamon roll)
+- [x] breakfast (erewhon cinnamon roll)
 - [ ] coffee in the afternoon
 - [x] smile or something
 - [ ] meditate

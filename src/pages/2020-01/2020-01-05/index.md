@@ -18,7 +18,7 @@ Day was - 9/10
 
 - [x] do 1 thing (equinox)
 - [x] wake up (7:00am)
-- [x] breakfast (erwhon cinamon roll :3)
+- [x] breakfast (erewhon cinamon roll :3)
 - [x] tea at night
 - [x] smile or something
 - [ ] meditate
