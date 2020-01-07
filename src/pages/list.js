@@ -17,8 +17,8 @@ const ListPage = () => (
     <SEO title="List" />
     <div style={{ textAlign: "center" }}>
       <br />
-      <hr />
       <p>{today}</p>
+      <hr />
       <Checkbox text="do 1 thing" />
       <Checkbox text="wake up" />
       <Checkbox text="breakfast" />
