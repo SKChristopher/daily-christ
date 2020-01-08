@@ -10,7 +10,7 @@ CACAO
 
 Goin to me mums tonight. Probly gonna try n hit up that hot tub 🥵
 
-Day was - x/10
+Day was - 10/10
 
 - [x] do 1 thing (climb)
 - [x] wake up (6:30)
