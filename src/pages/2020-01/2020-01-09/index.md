@@ -23,5 +23,5 @@ Yo for real, who am I? Wtf is this life?
 
 <br />
 <!-- Lion King - the past can hurt -->
-<iframe width="669" height="502" src="https://www.youtube.com/embed/dZfGTL2PY3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="502" src="https://www.youtube.com/embed/dZfGTL2PY3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- https://www.youtube.com/watch?v=dZfGTL2PY3E -->
