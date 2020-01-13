@@ -15,6 +15,6 @@ Feeling good this morning :)
 - [x] do 1 thing (Equinox)
 - [x] wake up (6:45)
 - [x] breakfast (Erewhon + Sakara @ home)
-- [ ] coffee in the afternoon
+- [x] tea in the afternoon
 - [x] smile or something
 - [ ] meditate
