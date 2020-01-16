@@ -21,6 +21,6 @@ step up & be courageous 🦁
 - [x] do 1 thing (cliffs)
 - [x] wake up (6:45)
 - [x] breakfast (Erewhon leftovers & save the chimps @ home)
-- [ ] coffee in the afternoon
+- [x] coffee in the afternoon
 - [x] smile or something
 - [ ] meditate
