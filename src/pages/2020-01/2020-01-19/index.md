@@ -4,7 +4,7 @@ date: "2020/01/19"
 title: "slimy yet satisfying"
 ---
 
-beatiful morning
+Solid great day. Transformative experience at the aquarium as always. I love jellyfish holy friggin moly - i guess it makes sense about this name of this whole thing. 🎐
 
 - [x] do 1 thing (Cliffs)
 - [x] wake up (7:00am)
