@@ -27,8 +27,8 @@ const ListPage = () => (
         <Checkbox text="do 1 thing" />
         <Checkbox text="wake up" />
         <Checkbox text="breakfast" />
-        <Checkbox text="coffee in the afternoon" />
         <Checkbox text="smile or something" />
+        <Checkbox text="coffee in the afternoon" />
         <Checkbox text="meditate" />
       </div>
     </div>
