@@ -1,7 +1,7 @@
 ---
 path: "/71"
 date: "2020/01/24"
-title: "Chinese New Year 🐀"
+title: "Lunar New Year 🐀"
 ---
 
 about to enter my new life 🧧🐉
