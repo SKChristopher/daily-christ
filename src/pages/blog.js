@@ -29,7 +29,7 @@ const BlogPage = ({ data }) => (
               gridTemplateColumns: '100px minmax(100px, auto)'
             }}
           >
-            <small>{ post.node.frontmatter.date }</small>
+            <small style={{ color: 'grey', }} >{ post.node.frontmatter.date }</small>
             <ListItemText
               style={{
                 display: 'inline',
