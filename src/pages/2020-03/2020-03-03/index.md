@@ -1,7 +1,7 @@
 ---
 path: "/93"
 date: "2020/03/03"
-title: "dispair"
+title: "despair"
 ---
 
 it takes just as much effort to suffer as it does to thrive
