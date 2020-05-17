@@ -1,1 +1,1 @@
-export const maxPage = 99
+export const maxPage = 100
