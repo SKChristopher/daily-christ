@@ -12,3 +12,4 @@ text
 - [ ] smile or something
 - [ ] coffee in the afternoon
 - [ ] meditate
+- [ ] chinese
