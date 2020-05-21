@@ -30,6 +30,7 @@ const ListPage = () => (
         <Checkbox text="smile or something" />
         <Checkbox text="coffee in the afternoon" />
         <Checkbox text="meditate" />
+        <Checkbox text="chinese" />
       </div>
     </div>
   </Layout>
