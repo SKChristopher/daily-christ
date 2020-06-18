@@ -13,3 +13,4 @@ text
 - [ ] coffee in the afternoon
 - [ ] meditate
 - [ ] chinese
+- [ ] 30 push-ups
