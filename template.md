@@ -14,3 +14,4 @@ text
 - [ ] meditate
 - [ ] chinese
 - [ ] 30 push-ups
+- [ ] 10 pull-ups
