@@ -12,6 +12,6 @@ he doesnt mean that, hes just all worked up
 - [x] smile or something
 - [ ] coffee in the afternoon
 - [x] meditate
-- [ ] chinese
+- [x] chinese
 - [ ] 30 push-ups
 - [x] 10 pull-ups
