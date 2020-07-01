@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react"
+import Axios from 'axios'
 
 import Layout from "../components/layout"
 import Image from "../components/image"
@@ -10,14 +11,12 @@ const IndexPage = () => {
   }
 
   const url = createURL("silverkitty", "tichondrius")
-  const [data, setData] = useState(fetch(url))
+  const [data, setData] = useState(Axios.get(url))
 
   useEffect(() => {
     const fetchData = async () => {
-      const result = await fetch(url)
-      const info = await result.json()
-      console.log(info)
-      setData(info)
+      const result = await Axios.get(url)
+      setData(result.data)
     }
     fetchData()
   }, [])
