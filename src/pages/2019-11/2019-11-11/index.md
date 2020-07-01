@@ -15,6 +15,7 @@ You know what, lets try and get a coffee goin every morning and see how that fee
 - [ ] smile or something
 
 Should we try n get some meditation goin again?
+
 - [ ] meditate
 
 This list is lookin okay. Not gonna be afraid to delete any of it tho if its gonna be comin at me hard. Not gonna be afraid of anything anymore tbh. Is pain really a bad thing? At the end of the day, pain is pleasure.

@@ -30,20 +30,20 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
-    'gatsby-plugin-catch-links',
+    "gatsby-plugin-catch-links",
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: "gatsby-source-filesystem",
       options: {
         path: `${__dirname}/src/pages`,
-        name: 'pages',
+        name: "pages",
       },
     },
-    'gatsby-transformer-remark',
+    "gatsby-transformer-remark",
     {
       resolve: `gatsby-plugin-s3`,
       options: {
-          bucketName: 'babyjellyfish.com',
-          region: 'us-west-1',
+        bucketName: "babyjellyfish.com",
+        region: "us-west-1",
       },
     },
   ],

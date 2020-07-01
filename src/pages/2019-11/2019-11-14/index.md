@@ -13,4 +13,3 @@ How do you even make coffee tho?
 - [ ] coffee in the morning before driving
 - [x] smile or something
 - [ ] meditate (its not too late for this, you can do it at night too, just do it)
-
