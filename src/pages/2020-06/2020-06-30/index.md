@@ -12,6 +12,6 @@ shes here 😍 (arrived yesterday)
 - [x] smile or something
 - [ ] coffee in the afternoon
 - [x] meditate
-- [ ] chinese
-- [ ] 30 push-ups
+- [x] chinese
+- [x] 30 push-ups
 - [x] 10 pull-ups
