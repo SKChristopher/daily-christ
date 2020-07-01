@@ -4,7 +4,7 @@ date: "2020/06/30"
 title: "ribby"
 ---
 
-shes here 😍
+shes here 😍 (arrived yesterday)
 
 - [x] do 1 thing
 - [x] wake up (7:00am)
