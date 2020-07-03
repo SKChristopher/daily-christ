@@ -12,7 +12,3 @@ deploy:
   acl: public_read
   local_dir: public
   region: us-west-1
-env:
-  global:
-    - BNET_CLIENT=$BNET_CLIENT
-    - BNET_SECRET=$BNET_SECRET

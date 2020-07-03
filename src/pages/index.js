@@ -16,6 +16,7 @@ const IndexPage = () => {
     const fetchData = async () => {
       const user = process.env.bnet_client ? process.env.BNET_CLIENT : 'BNET_CLIENT_STRING'
       const password = process.env.bnet_secret ? process.env.BNET_SECRET : 'BNET_SECRET_STRING'
+      
       console.log(process.env)
       console.log(process.env.BNET_CLIENT)
 
