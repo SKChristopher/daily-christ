@@ -1,54 +1,54 @@
 import React, { useState, useEffect } from "react"
-import axios from 'axios'
+// import axios from 'axios'
 
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 
 const IndexPage = () => {
-  const createURL = (characterName, realm, accessToken) => {
-    return `https://us.api.blizzard.com/profile/wow/character/${realm}/${characterName}/pvp-bracket/3v3?namespace=profile-us&locale=en_US&access_token=${accessToken}`
-  }
+  // const createURL = (characterName, realm, accessToken) => {
+  //   return `https://us.api.blizzard.com/profile/wow/character/${realm}/${characterName}/pvp-bracket/3v3?namespace=profile-us&locale=en_US&access_token=${accessToken}`
+  // }
 
-  const [data, setData] = useState(null)
+  // const [data, setData] = useState(null)
   
-  useEffect(() => {
-    const fetchData = async () => {
-      const user = process.env.bnet_client ? process.env.BNET_CLIENT : 'BNET_CLIENT_STRING'
-      const password = process.env.bnet_secret ? process.env.BNET_SECRET : 'BNET_SECRET_STRING'
-      
-      console.log(process.env)
-      console.log(process.env.BNET_CLIENT)
+  // useEffect(() => {
+  //   const fetchData = async () => {
+  //     const user = process.env.BNET_SECRET
+  //     const password = process.env.BNET_CLIENT
 
-      var dataString = 'grant_type=client_credentials';
+  //     console.log(process.env)
+  //     console.log(process.env.BNET_CLIENT)
 
-      const bnetTokenResponse = await axios(
-        {
-          url: 'https://us.battle.net/oauth/token',
-          method: 'post',
-          data: dataString,
-          auth: {
-            username: user,
-            password,
-          }
-        }
-      )
+  //     var dataString = 'grant_type=client_credentials';
 
-      const accessToken = bnetTokenResponse.data.access_token
+  //     const bnetTokenResponse = await axios(
+  //       {
+  //         url: 'https://us.battle.net/oauth/token',
+  //         method: 'post',
+  //         data: dataString,
+  //         auth: {
+  //           username: user,
+  //           password,
+  //         }
+  //       }
+  //     )
 
-      const url = createURL("silverkitty", "tichondrius", accessToken)
-      const result = await axios.get(url)
+  //     const accessToken = bnetTokenResponse.data.access_token
 
-      setData(result.data)
-    }
-    fetchData()
-  }, [])
+  //     const url = createURL("silverkitty", "tichondrius", accessToken)
+  //     const result = await axios.get(url)
+
+  //     setData(result.data)
+  //   }
+  //   fetchData()
+  // }, [])
 
   return (
     <Layout>
       <SEO title="Home" />
       <div style={{ maxWidth: `1000px`, marginBottom: `1.45rem` }}>
-        <div>
+        {/* <div>
           <p>
             {data && data.rating && data.character.name
               ? `${data.character.name} : ${data.rating.toString()}`
@@ -64,7 +64,7 @@ const IndexPage = () => {
               ? `This season : ${JSON.stringify(data.season_match_statistics)}`
               : "loading..."}
           </p>
-        </div>
+        </div> */}
         <Image />
       </div>
     </Layout>
