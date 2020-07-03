@@ -1,21 +1,41 @@
 import React, { useState, useEffect } from "react"
-import Axios from 'axios'
+import axios from 'axios'
 
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 
 const IndexPage = () => {
-  const createURL = (characterName, realm) => {
-    return `https://us.api.blizzard.com/profile/wow/character/${realm}/${characterName}/pvp-bracket/3v3?namespace=profile-us&locale=en_US&access_token=USJOux74KBnWUBsxSH75p6CpzQAI1ph4Le`
+  const createURL = (characterName, realm, accessToken) => {
+    return `https://us.api.blizzard.com/profile/wow/character/${realm}/${characterName}/pvp-bracket/3v3?namespace=profile-us&locale=en_US&access_token=${accessToken}`
   }
 
-  const url = createURL("silverkitty", "tichondrius")
-  const [data, setData] = useState(Axios.get(url))
-
+  const [data, setData] = useState(null)
+  
   useEffect(() => {
     const fetchData = async () => {
-      const result = await Axios.get(url)
+      const user = process.env.bnet_client ? process.env.bnet_client : 'bnet_client'
+      const password = process.env.bnet_secret ? process.env.bnet_secret : 'bnet_secret'
+
+      var dataString = 'grant_type=client_credentials';
+
+      const bnetTokenResponse = await axios(
+        {
+          url: 'https://us.battle.net/oauth/token',
+          method: 'post',
+          data: dataString,
+          auth: {
+            username: user,
+            password,
+          }
+        }
+      )
+
+      const accessToken = bnetTokenResponse.data.access_token
+
+      const url = createURL("silverkitty", "tichondrius", accessToken)
+      const result = await axios.get(url)
+
       setData(result.data)
     }
     fetchData()
