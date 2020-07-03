@@ -16,6 +16,8 @@ const IndexPage = () => {
     const fetchData = async () => {
       const user = process.env.bnet_client ? process.env.bnet_client : 'bnet_client'
       const password = process.env.bnet_secret ? process.env.bnet_secret : 'bnet_secret'
+      console.log(process.env)
+      console.log(process.env.bnet_client)
 
       var dataString = 'grant_type=client_credentials';
 
