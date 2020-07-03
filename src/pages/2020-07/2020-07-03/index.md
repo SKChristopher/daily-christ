@@ -14,4 +14,4 @@ got the bnet api goin. skipped breakfast which was probably not the best idea, n
 - [ ] meditate
 - [ ] chinese
 - [ ] 30 push-ups
-- [ ] 10 pull-ups
+- [x] 10 pull-ups
