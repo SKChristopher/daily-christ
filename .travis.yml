@@ -13,5 +13,6 @@ deploy:
   local_dir: public
   region: us-west-1
 env:
-  - bnet_client=$bnet_client
-  - bnet_secret=$bnet_secret
+  global:
+    - bnet_client=$bnet_client
+    - bnet_secret=$bnet_secret
