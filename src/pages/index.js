@@ -14,10 +14,10 @@ const IndexPage = () => {
   
   useEffect(() => {
     const fetchData = async () => {
-      const user = process.env.bnet_client ? process.env.bnet_client : 'bnet_client'
-      const password = process.env.bnet_secret ? process.env.bnet_secret : 'bnet_secret'
+      const user = process.env.bnet_client ? process.env.BNET_CLIENT : 'BNET_CLIENT_STRING'
+      const password = process.env.bnet_secret ? process.env.BNET_SECRET : 'BNET_SECRET_STRING'
       console.log(process.env)
-      console.log(process.env.bnet_client)
+      console.log(process.env.BNET_CLIENT)
 
       var dataString = 'grant_type=client_credentials';
 
