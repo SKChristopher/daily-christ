@@ -11,13 +11,14 @@ const colors = [
   "#5D6D7E",
   "#F7DC6F",
 ]
+
 const today = new Date()
 const dayNum = today.getDay()
 
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      background: `${colors[dayNum]}`,
+      background: 'white', // `${colors[dayNum]}`,
       marginBottom: `0`,
     }}
   >
@@ -32,7 +33,7 @@ const Header = ({ siteTitle }) => (
         <Link
           to="/"
           style={{
-            color: `white`,
+            color: `#9400D3`,
             textDecoration: `none`,
           }}
         >
