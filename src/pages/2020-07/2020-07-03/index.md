@@ -8,6 +8,8 @@ skipped breakfast which was probably not the best idea, not sure why i did just 
 
 cant believe he went down yesterday, how can i miss someone so much that i hardly interacted with?
 
+the essence of things, every word carries weight
+
 - [x] do 1 thing
 - [x] wake up (6:30)
 - [ ] breakfast

@@ -6,15 +6,15 @@ title: "title"
 
 text
 
-- [ ] do 1 thing
 - [ ] wake up
+- [ ] do 1 thing
 - [ ] meditate
 - [ ] breakfast
-- [ ] coffee in the afternoon
+- [ ] caffeine in the afternoon
 
-Self care options:
+Self-care options:
 - [ ] smile or something
-- [ ] 10 pull-ups
-- [ ] 30 push-ups
+- [ ] 10+ pull-ups
+- [ ] 30+ push-ups
 - [ ] chinese
 - [ ] walk along the beach
