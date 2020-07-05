@@ -8,6 +8,8 @@ doesn't seem that there is much to celebrate this year with covid and the police
 
 i love talking to people and looking at memes
 
+six full months already
+
 - [x] wake up (7:00)
 - [x] do 1 thing
 - [ ] meditate
