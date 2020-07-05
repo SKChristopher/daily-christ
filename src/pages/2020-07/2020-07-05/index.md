@@ -8,6 +8,8 @@ i guess its just forever, been long enough to know that its not goin anywhere.
 
 live with it instead of trying to get rid of it i guess
 
+i am gentle, i am kind, why do people do bad things to me? i don't understand this world and it doesn't understand me.
+
 - [x] wake up (7:00am)
 - [x] do 1 thing
 - [ ] meditate
@@ -16,7 +18,7 @@ live with it instead of trying to get rid of it i guess
 
 Self-care options:
 - [x] smile or something
-- [ ] 10+ pull-ups
+- [x] 10+ pull-ups
 - [ ] 30+ push-ups
 - [x] chinese
 - [ ] walk along the beach

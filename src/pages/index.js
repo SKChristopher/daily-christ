@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from "gatsby"
 // { useState, useEffect }
 // import axios from 'axios'
 
@@ -66,7 +67,9 @@ const IndexPage = () => {
               : "loading..."}
           </p>
         </div> */}
-        <Image />
+        <Link to="/blog">
+          <Image />
+        </Link>
       </div>
     </Layout>
   )
