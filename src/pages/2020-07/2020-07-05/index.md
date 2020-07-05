@@ -19,6 +19,6 @@ i am gentle, i am kind, why do people do bad things to me? i don't understand th
 Self-care options:
 - [x] smile or something
 - [x] 10+ pull-ups
-- [ ] 30+ push-ups
+- [x] 30+ push-ups
 - [x] chinese
 - [ ] walk along the beach

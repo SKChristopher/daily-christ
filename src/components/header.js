@@ -2,18 +2,18 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
-const colors = [
-  "rebeccapurple",
-  "#F5B7B1",
-  "#F8C471",
-  "#85C1E9",
-  "#82E0AA",
-  "#5D6D7E",
-  "#F7DC6F",
-]
+// const colors = [
+//   "rebeccapurple",
+//   "#F5B7B1",
+//   "#F8C471",
+//   "#85C1E9",
+//   "#82E0AA",
+//   "#5D6D7E",
+//   "#F7DC6F",
+// ]
 
-const today = new Date()
-const dayNum = today.getDay()
+// const today = new Date()
+// const dayNum = today.getDay()
 
 const Header = ({ siteTitle }) => (
   <header
