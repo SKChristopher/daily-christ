@@ -14,7 +14,7 @@ i am gentle, i am kind, why do people do bad things to me? i don't understand th
 - [x] do 1 thing
 - [ ] meditate
 - [x] breakfast (Erewhon)
-- [ ] caffeine in the afternoon
+- [x] caffeine in the afternoon
 
 Self-care options:
 - [x] smile or something

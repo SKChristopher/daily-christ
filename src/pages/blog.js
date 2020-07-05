@@ -13,8 +13,9 @@ const BlogPage = ({ data }) => {
   // delay creating all posts at once for improved page render speed when navigtating to /blog
   // this may cause problems if later trying to implement remembering scroll position when back naving
   useEffect(() => {
-    setTimeout(() => setMaxPosts(data.allMarkdownRemark.edges.length), 100)
-  }, [])
+    const max = data.allMarkdownRemark.edges.length
+    setTimeout(() => setMaxPosts(max), 100)
+  })
 
   return(
     <Layout>

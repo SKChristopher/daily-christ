@@ -23,7 +23,7 @@ export default function Template({ data }) {
       <IconButton
         aria-label="back"
         component={Link}
-        to="blog"
+        to="/blog"
         style={{
           margin: "3px",
           padding: "6px",
@@ -46,13 +46,13 @@ export default function Template({ data }) {
             <Button
               aria-label="previous"
               component={Link}
-              to={`${pathNum - 1}`}
+              to={`/${pathNum - 1}`}
             >
               Prev
             </Button>
           )}
           {pathNum < maxPage && (
-            <Button aria-label="next" component={Link} to={`${pathNum + 1}`}>
+            <Button aria-label="next" component={Link} to={`/${pathNum + 1}`}>
               Next
             </Button>
           )}
