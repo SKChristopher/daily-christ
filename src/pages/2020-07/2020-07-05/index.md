@@ -12,7 +12,7 @@ i am gentle, i am kind, why do people do bad things to me? i don't understand th
 
 - [x] wake up (7:00am)
 - [x] do 1 thing
-- [ ] meditate
+- [x] meditate
 - [x] breakfast (Erewhon)
 - [x] caffeine in the afternoon
 
@@ -21,4 +21,4 @@ Self-care options:
 - [x] 10+ pull-ups
 - [x] 30+ push-ups
 - [x] chinese
-- [ ] walk along the beach
+- [x] walk along the beach
