@@ -14,7 +14,7 @@ i have the high ground
 
 Self-care options:
 - [x] smile or something
-- [ ] 10+ pull-ups
+- [x] 10+ pull-ups
 - [x] 30+ push-ups
-- [ ] chinese
+- [x] chinese
 - [x] walk along the street
