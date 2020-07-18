@@ -17,4 +17,5 @@ Self-care options:
 - [ ] 10+ pull-ups
 - [ ] 30+ push-ups
 - [ ] chinese
-- [ ] walk along the beach
+- [ ] walk
+- [ ] read
