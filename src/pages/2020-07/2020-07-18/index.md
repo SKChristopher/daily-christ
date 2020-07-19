@@ -4,7 +4,11 @@ date: "2020/07/18"
 title: "waves"
 ---
 
-text
+up
+
+soon is not as good as now
+
+be quick
 
 - [x] wake up (7:00am)
 - [x] do 1 thing
