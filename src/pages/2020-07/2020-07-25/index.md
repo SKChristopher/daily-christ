@@ -12,6 +12,8 @@ she is always going to test you, that is her pleasure and existence, don't lose 
 
 do not deflate, you don't need validation.
 
+I am accepted. I am welcome here.
+
 - [x] wake up
 - [x] do 1 thing
 - [x] meditate
