@@ -16,6 +16,6 @@ Self-care options:
 - [x] smile or something
 - [ ] 10+ pull-ups
 - [ ] 30+ push-ups
-- [ ] chinese
+- [x] chinese
 - [x] walk
 - [ ] read
