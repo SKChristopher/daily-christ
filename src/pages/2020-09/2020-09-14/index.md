@@ -4,7 +4,7 @@ date: "2020/09/14"
 title: "California Love"
 ---
 
-Hole in the wall Nutella Latte ++
+Hole in the wall: Nutella Latte++ (was yesterday tho)
 
 Getting WiFi tomorrow 😀
 
