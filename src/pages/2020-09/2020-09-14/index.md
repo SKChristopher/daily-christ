@@ -6,6 +6,8 @@ title: "California Love"
 
 Hole in the wall Nutella Latte ++
 
+Getting WiFi tomorrow 😀
+
 Missed the beach a little bit today.
 
 Things to do in NYC:
