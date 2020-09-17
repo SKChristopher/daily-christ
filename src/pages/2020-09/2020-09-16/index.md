@@ -17,5 +17,5 @@ Self-care options:
 - [ ] 10+ pull-ups
 - [ ] 30+ push-ups
 - [ ] chinese
-- [ ] walk
+- [x] walk
 - [ ] read
