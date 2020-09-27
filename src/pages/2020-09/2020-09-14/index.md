@@ -12,7 +12,7 @@ Missed the beach a little bit today.
 
 Things to do in NYC:
  - Statue of Liberty
- - Museum (MET, Natrual History, MOMA)
+ - Museum (MET, Natural History, MOMA)
  - Bull Statue
  - Central Park++
  - Bike Around
