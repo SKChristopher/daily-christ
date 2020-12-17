@@ -14,8 +14,7 @@ text
 
 Self-care options:
 - [ ] smile or something
-- [ ] 10+ pull-ups
-- [ ] 30+ push-ups
+- [ ] break a sweat
 - [ ] chinese
 - [ ] walk
 - [ ] read
