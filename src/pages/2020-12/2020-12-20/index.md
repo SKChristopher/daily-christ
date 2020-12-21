@@ -1,14 +1,14 @@
 ---
-path: "/153"
-date: "2020/12/18"
-title: "alone again"
+path: "/154"
+date: "2020/12/20"
+title: "stubborn"
 ---
 
-you do you
+who tho? surfin is fun :)
 
 - [x] wake up
 - [x] do 1 thing
-- [x] meditate
+- [ ] meditate
 - [x] breakfast
 - [ ] caffeine in the afternoon
 
@@ -17,4 +17,4 @@ Self-care options:
 - [x] break a sweat
 - [ ] chinese
 - [x] walk
-- [x] read
+- [ ] read
