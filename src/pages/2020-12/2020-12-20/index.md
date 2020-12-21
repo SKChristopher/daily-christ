@@ -19,4 +19,4 @@ Self-care options:
 - [x] break a sweat
 - [ ] chinese
 - [x] walk
-- [ ] read
+- [x] read
