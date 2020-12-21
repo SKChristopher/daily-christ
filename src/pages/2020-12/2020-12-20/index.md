@@ -6,6 +6,8 @@ title: "stubborn"
 
 who tho? surfin is fun :)
 
+why do others insist on invalidation? what is revealed to them in my mirror?
+
 - [x] wake up
 - [x] do 1 thing
 - [ ] meditate
