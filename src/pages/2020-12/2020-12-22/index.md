@@ -16,7 +16,7 @@ Its okay to not hit every check, as long as you did your best. Some days your be
 
 Self-care options:
 - [x] smile or something
-- [ ] break a sweat
+- [x] break a sweat
 - [ ] chinese
 - [x] walk
 - [x] read
