@@ -9,7 +9,7 @@ once again, its over for me.
 - [x] wake up (5:00 AM)
 - [x] do 1 thing
 - [x] meditate
-- [ ] DC
+- [x] DC
 - [x] DJ
 Days in a row: 0/21
 
