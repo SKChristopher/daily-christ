@@ -11,7 +11,6 @@ text
 - [ ] meditate
 - [ ] DC
 - [ ] DJ
-Days in a row: 0/21
 
 Self-care options:
 - [ ] breakfast

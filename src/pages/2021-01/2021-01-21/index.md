@@ -13,7 +13,6 @@ maybe have this thing save your scroll position and return you to that position 
 - [ ] meditate
 - [x] DC
 - [x] DJ
-Days in a row: 0/21
 
 Self-care options:
 - [x] breakfast

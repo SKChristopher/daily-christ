@@ -11,7 +11,6 @@ once again, its over for me.
 - [x] meditate
 - [x] DC
 - [x] DJ
-Days in a row: 0/21
 
 Self-care options:
 - [x] breakfast
