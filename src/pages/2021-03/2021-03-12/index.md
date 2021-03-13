@@ -1,10 +1,10 @@
 ---
-path: "/164"
-date: "2021/03/11"
-title: "losing it af"
+path: "/165"
+date: "2021/03/12"
+title: "new daze"
 ---
 
-don't wanna play anymore
+how do I even keep walking?
 
 - [x] wake up
 - [x] do 1 thing
@@ -16,7 +16,7 @@ Self-care options:
 - [ ] breakfast
 - [x] smile or something
 - [x] break a sweat
-- [x] chinese
+- [ ] chinese
 - [x] walk
 - [ ] read
 - [ ] caffeine in the afternoon
