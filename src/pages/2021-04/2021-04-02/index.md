@@ -1,10 +1,10 @@
 ---
 path: "/168"
 date: "2021/04/02"
-title: "go go"
+title: "foolin my whole life"
 ---
 
-back to life
+gotta go back
 
 - [x] wake up (6)
 - [x] do 1 thing (Beach Workout)
